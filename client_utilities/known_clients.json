@@ -1,0 +1,10 @@
+[
+  { "name": "Wurst", "class": "net.wurstclient.WurstClient" },
+  { "name": "Meteor", "class": "meteordevelopment.meteorclient.MeteorClient" },
+  { "name": "Aristois", "class": "dev.fuchsia.Aristois" },
+  { "name": "Sigma", "class": "me.earthme.sigma.Sigma" },
+  { "name": "LiquidBounce", "class": "net.ccbluex.liquidbounce.LiquidBounce" },
+  { "name": "Inertia", "class": "com.inertiaclient.Inertia" },
+  { "name": "Impact", "class": "impact.Impact" },
+  { "name": "Future", "class": "me.aquavit.futures.client.Future" }
+]
