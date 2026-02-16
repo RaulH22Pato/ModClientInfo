@@ -1,9 +1,12 @@
 {
     "lyriusrpmod" : {
-        "current_version" : "0.20.0",
+        "current_version" : "0.3.9",
         "versions" : {
             "0.20.0":{
                 "sha256" : "bf304e5a6583cfa87f2c332bf073e9f0094e532bd2c11049966a5b2c9f4716e6"
+            },
+            "0.3.9":{
+                "sha256" : "0e756b4de2087ca6b602533aff4d2c581aa0a67a9708a153839f7651bbea2857"
             }
         }
     }
